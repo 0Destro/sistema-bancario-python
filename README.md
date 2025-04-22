@@ -27,7 +27,7 @@ Este é um projeto simples de um sistema bancário desenvolvido em Python como p
 
 - ✅ Menu com **emojis** para uma interface mais amigável.
 - ✅ Mensagens de erro e sucesso mais **claras e informativas**.
-- ✅ Visual limpo no terminal e alinhado com boas práticas para iniciantes.
+- ✅ Visual limpo no terminal.
 
 ---
 
